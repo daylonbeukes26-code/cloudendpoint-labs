@@ -42,7 +42,7 @@ These included:
 - Troubleshooting a disabled Microsoft Entra ID user account
 - Troubleshooting incorrect department information affecting dynamic group membership and user access
 
- # I had some lab limitations Lab Limitations:
+ # I had some Lab Limitations:
 
 I did not enroll my personal laptop into Intune, so device policies and applications were configured in the tenant but were not deployed to my personal device. I also explored Conditional Access but my test tenant did not include the Microsoft Entra ID Premium licensing required to create the policies as I currently only have a Free trial.
 
