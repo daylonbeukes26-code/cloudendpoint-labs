@@ -48,6 +48,6 @@ I did not enroll my personal laptop into Intune, so device policies and applicat
 
 # Certifications & Learning
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Endpoint Administrator Associate (MD-102)
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Currently preparing for Microsoft MD-102: Endpoint Administrator.
+- Microsoft Certified: Azure Fundamentals (AZ-900)
